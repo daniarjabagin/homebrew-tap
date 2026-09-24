@@ -1,6 +1,6 @@
 cask "headroom" do
-  version "0.5.0"
-  sha256 "edefa54d0548d1dfcfcffdf56b8d5a34c9ddeae77f928f76466a95266b21cc86"
+  version "0.5.1"
+  sha256 "69907db2b6eb04962f348905b71168ac0c4692eceb498d0951dba616a56f074a"
 
   url "https://github.com/daniarjabagin/headroom/releases/download/v#{version}/Headroom-#{version}-universal.dmg"
   name "Headroom"
